@@ -59,6 +59,9 @@ El cliente de la biblioteca ofrece las siguientes funcionalidades a través de u
 Cada opción es accesible a través de un menú al iniciar el cliente.
 
 ## Diagrama de Clases
+El diagrama UML muestra como la interfaz GestionBiblioteca gestiona operaciones como la búsqueda y préstamo de libros,
+mientras que GestionBibliotecaImpl maneja la lógica del servidor y ClienteBiblioteca se encarga de las interacciones 
+del usuario.
 
 ![Diagrama UML](UMLdiagram.png)
 
