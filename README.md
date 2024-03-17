@@ -7,7 +7,7 @@ Este proyecto implementa un sistema de gestión de biblioteca utilizando la Arqu
 
 Para ejecutar este proyecto necesitas tener instalado:
 
-- Java Development Kit (JDK) versión 1.8. Recomendamos usar Amazon Corretto 1.8.
+- Java Development Kit (JDK) versión Amazon Corretto 1.8.
 - Un ORB compatible con CORBA para Java, como el incluido en el JDK.
 
 ![Amazon Corretto 1.8](https://img.shields.io/badge/Amazon%20Corretto-1.8-green.svg)
